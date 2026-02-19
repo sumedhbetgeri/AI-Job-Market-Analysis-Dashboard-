@@ -1,45 +1,39 @@
-# AI-Job-Market-Analysis-Dashboard-
+# AI Job Market Intelligence Dashboard
 
-📊 Overview
+## Overview
+This project presents an interactive Power BI dashboard analyzing global AI job market trends. The objective is to transform raw job posting data into actionable insights related to compensation, workforce demand, and hiring patterns.
 
-The dataset was directly imported from a CSV file into Power BI, where all data cleaning, transformation, metric creation, and visualization were performed. The dashboard enables users to explore AI job market patterns through interactive charts, KPIs, and filters.
+## Key Features
+- KPI-driven executive summary
+- Salary band distribution analysis
+- Experience-level job distribution
+- Industry and employment type breakdown
+- Remote vs Hybrid vs Onsite trend analysis
+- Top in-demand AI skills visualization
+- Interactive slicers for dynamic filtering
 
-🛠 Tools Used
+## Tools & Technologies
+- Power BI
+- Power Query (Data Cleaning & Transformation)
+- DAX (Calculated Metrics)
+- CSV Dataset
 
-Power BI Desktop
+## Business Value
+This dashboard enables:
+- Recruiters to understand hiring trends
+- Job seekers to identify high-paying roles
+- Market analysts to evaluate AI workforce demand
+- Organizations to benchmark compensation patterns
 
-DAX measures & calculated columns
+## Project Structure
+- `AI_Job_Market_Dashboard.pbix` – Main dashboard file
+- `/data` – Source dataset
+- `/screenshots` – Dashboard preview image
 
-Power Query (data cleaning & transformation)
+## How to Use
+1. Download the `.pbix` file
+2. Open in Power BI Desktop
+3. Interact with slicers to explore insights
 
-CSV dataset
-
-📈 Dashboard Highlights
-
-KPI cards for total jobs and key metrics
-
-Salary analysis by experience level
-
-Remote vs on-site job distribution
-
-Industry and company location breakdown
-
-Skills and requirement trends
-
-Interactive slicers and filters
-
-🧠 Skills Demonstrated
-
-Data cleaning with Power Query
-
-DAX measure creation
-
-KPI and metric design
-
-Interactive dashboard building
-
-Data visualization & storytelling
-
-DAX measure creation
-
-Dashboard design & storytelling
+## Author
+Developed by Sumedh
